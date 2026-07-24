@@ -112,30 +112,12 @@ Real-time password analyzer with security recommendations.
 
 ---
 
-# 📊 GitHub Analytics
-
-> Replace **YOUR_USERNAME** with **DicksonPaL21** if needed.
-
-```md
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DicksonPaL21&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DicksonPaL21&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DicksonPaL21&theme=tokyonight&hide_border=true"/>
-</p>
-```
-
----
-
 # 🌱 Currently Building
 
 * 🎥 Zingle — Anonymous Video Chat Platform
 * 🤖 AI-powered web applications
 * ⚡ Real-time communication systems
 * ☁️ Scalable SaaS architecture
-* 🛠️ Open-source developer tools
 
 ---
 
